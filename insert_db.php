@@ -126,7 +126,7 @@ $query = mysqli_query($conn,"INSERT INTO data_universitas (id,nama_universitas) 
 '),(NULL,'Politeknik Negeri Bandung, Bandung
 '),(NULL,'Politeknik Indramayu, Indramayu
 '),(NULL,'Universitas Siliwangi (UNSIL), Tasikmalaya
-'),(NULL,'niversitas Singaperbangsa (UNSIKA), Kampus Daerah Karawang
+'),(NULL,'Universitas Singaperbangsa (UNSIKA), Kampus Daerah Karawang
 '),(NULL,'Universitas Swadaya Gunung Jati (Unswagati) di Kota Cirebon
 '),(NULL,'Universitas Pendidikan Indonesia, Kampus Daerah Cibiru
 '),(NULL,'Universitas Pendidikan Indonesia, Kampus Daerah Tasikmalaya
