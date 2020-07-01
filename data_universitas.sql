@@ -157,7 +157,7 @@ INSERT INTO `data_universitas` (`id`, `nama_universitas`) VALUES
 (115, 'Politeknik Negeri Bandung, Bandung\r\n'),
 (116, 'Politeknik Indramayu, Indramayu\r\n'),
 (117, 'Universitas Siliwangi (UNSIL), Tasikmalaya\r\n'),
-(118, 'niversitas Singaperbangsa (UNSIKA), Kampus Daerah Karawang\r\n'),
+(118, 'Universitas Singaperbangsa (UNSIKA), Kampus Daerah Karawang\r\n'),
 (119, 'Universitas Swadaya Gunung Jati (Unswagati) di Kota Cirebon\r\n'),
 (120, 'Universitas Pendidikan Indonesia, Kampus Daerah Cibiru\r\n'),
 (121, 'Universitas Pendidikan Indonesia, Kampus Daerah Tasikmalaya\r\n'),
